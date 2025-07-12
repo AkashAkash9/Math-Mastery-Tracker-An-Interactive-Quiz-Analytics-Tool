@@ -29,7 +29,7 @@ An interactive Streamlit web application designed to help students practice key 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Interactive-Math-Quiz-App.git
+   git clone https://github.com/AkashAkash9/Math-Mastery-Tracker-An-Interactive-Quiz-Analytics-Tool.git
    cd Interactive-Math-Quiz-App
 
 2. Create a virtual environment and activate it:
