@@ -34,20 +34,20 @@ An interactive Streamlit web application designed to help students practice key 
 
 2. Create a virtual environment and activate it:
 
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-.\venv\Scripts\activate   # Windows
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   .\venv\Scripts\activate   # Windows
 
 3. Install dependencies:
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. Run the app:
 
-```bash
-streamlit run app.py
+   ```bash
+   streamlit run app.py
 
 ## Project Structure
 app.py — Main Streamlit application code
